@@ -62,6 +62,10 @@ https://github.com/d08ble/livelogging-cpp
 https://github.com/d08ble/livelogging-python
 https://github.com/d08ble/livelogging-ios
 
+##### Livecomment CLI
+
+https://github.com/web3cryptowallet/livecomment-cli
+
 ##### pica
 
 Imaging and WebGL optimization of the popular pica node package

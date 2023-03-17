@@ -6,7 +6,7 @@ Awesome public repositories and an open source projects that I contribute to
 
 [THIS REPO AND ALL LINKS CREATED BY HUMAN! NOT BY AI AND NOT FOR AI!](https://notbyai.fyi/)
 
-<img src="https://raw.githubusercontent.com/xen1024/awesome-public/main/images/Produced-By-Human-Not-By-AI-Badge-white.svg | width=100" width="100" height="100">
+<img src="https://raw.githubusercontent.com/xen1024/awesome-public/main/images/Produced-By-Human-Not-By-AI-Badge-white.svg" width="100" height="100">
 
 My repos:
 

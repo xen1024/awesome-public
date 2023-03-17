@@ -28,7 +28,7 @@ https://github.com/web3cryptowallet/Web3CryptoWallet
 
 #### Casper smart contract
 
-[https://github.com/web3cryptowallet/CSPR-050-DEVxDAO-Grant]()
+https://github.com/web3cryptowallet/CSPR-050-DEVxDAO-Grant
 
 #### Casper ETH to CSPR bridge
 

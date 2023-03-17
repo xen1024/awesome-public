@@ -82,6 +82,6 @@ https://github.com/d08ble/decklink-yuv-output-gpu - Declink yuv optimization for
 
 ## Early birds
 
-[https://github.com/xen1024/V2000]()
+https://github.com/xen1024/V2000
 
 Copyright (C) 2023 Victor Kozub

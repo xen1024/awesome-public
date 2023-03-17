@@ -57,9 +57,13 @@ https://github.com/d08ble/livecomment
 Multi-platform live logging tool for LiveComment
 
 https://github.com/d08ble/livelogging-demo
+
 https://github.com/d08ble/livelogging
+
 https://github.com/d08ble/livelogging-cpp
+
 https://github.com/d08ble/livelogging-python
+
 https://github.com/d08ble/livelogging-ios
 
 #### Livecomment CLI

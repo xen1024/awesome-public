@@ -26,33 +26,33 @@ The world's first mobile 3D cryptocurrency wallet
 
 https://github.com/web3cryptowallet/Web3CryptoWallet
 
-##### Casper smart contract
+#### Casper smart contract
 
 [https://github.com/web3cryptowallet/CSPR-050-DEVxDAO-Grant]()
 
-##### Casper ETH to CSPR bridge
+#### Casper ETH to CSPR bridge
 
 https://github.com/web3cryptowallet/Casper-Ethereum-Bridge-GRANT
 
-##### drive-py
+#### drive-py
 
 Multithread disk files comparasion tool for verification and md5sum report in livecomment format
 
 https://github.com/web3cryptowallet/drive-py
 
-##### scanwatch
+#### scanwatch
 
 Amazing minimalistic watcher for node that working for years 
 
 https://github.com/d08ble/scanwatch 
 
-##### LiveComment
+#### LiveComment
 
 Notes & code tool (Evernote for programmers)
 
 https://github.com/d08ble/livecomment
 
-##### LiveLogging
+#### LiveLogging
 
 Multi-platform live logging tool for LiveComment
 
@@ -62,17 +62,17 @@ https://github.com/d08ble/livelogging-cpp
 https://github.com/d08ble/livelogging-python
 https://github.com/d08ble/livelogging-ios
 
-##### Livecomment CLI
+#### Livecomment CLI
 
 https://github.com/web3cryptowallet/livecomment-cli
 
-##### pica
+#### pica
 
 Imaging and WebGL optimization of the popular pica node package
 
 https://github.com/d08ble/pica
 
-##### Other
+#### Other
 
 https://github.com/d08ble/decklink-yuv-output-gpu - Declink yuv optimization for node
 

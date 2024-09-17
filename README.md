@@ -12,7 +12,22 @@ My repos:
 
 https://github.com/web3cryptowallet
 
+https://github.com/xen1024
+
 https://github.com/d08ble
+
+##### Bittensor 
+
+- Bittensor core
+- Benchmarking AI hardware (A100, H100)
+- Hashcat GPU kernels
+- Tensorflow training benchmarks, TinyNN benchmarks
+- The world's first visual mining algorithm KudoMine
+- Akash network integration: docker image, kubernetes and web panel, CLI scripts with provider-services, docs
+
+https://github.com/xen1024/compute-subnet/blob/arch1/docs/compute-27/introduction.md
+
+https://github.com/xen1024/compute-subnet/blob/arch1/docs/benchmarking.md
 
 ##### AnimationCPU programming language compiler
 
